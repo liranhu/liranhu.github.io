@@ -1,15 +1,10 @@
 ---
-layout:     post
-title:      My first Blog
-subtitle:   My first Blog
-date:       2020-3-21
-author:     liranhu
-header-img: img/life_index.jpg
-catalog:    true
-tags:
-    - 生活
+layout: post
+title: My first Blog
+categories: Blog
+description: 测试
+keywords: 生活
 ---
-
 
 
 ## 第一篇博客
